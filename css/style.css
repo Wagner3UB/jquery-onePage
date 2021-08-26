@@ -38,7 +38,7 @@ header h1 {
 .barra{
 	width: 100%;
 	height: 20px;
-	background: url("../img/imagem1t.jpg") center repeat ;
+	background: url("../img/img1.jpg") center repeat ;
 	background-attachment: fixed;
 	position: absolute;
 	bottom: 0;
